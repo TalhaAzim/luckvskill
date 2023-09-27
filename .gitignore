@@ -1,0 +1,9 @@
+# Ignore virtual environment and related files
+Pipfile.lock
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# Optional: If you want to ignore the requirements.txt (though some like to keep it version controlled)
+#requirements.txt
